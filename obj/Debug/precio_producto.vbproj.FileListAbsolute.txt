@@ -1,0 +1,12 @@
+D:\programacion\visual.net\precio_producto\bin\Debug\precio_producto.exe.config
+D:\programacion\visual.net\precio_producto\bin\Debug\precio_producto.exe
+D:\programacion\visual.net\precio_producto\bin\Debug\precio_producto.pdb
+D:\programacion\visual.net\precio_producto\bin\Debug\precio_producto.xml
+D:\programacion\visual.net\precio_producto\obj\Debug\precio_producto.vbproj.AssemblyReference.cache
+D:\programacion\visual.net\precio_producto\obj\Debug\precio_producto.vbproj.SuggestedBindingRedirects.cache
+D:\programacion\visual.net\precio_producto\obj\Debug\precio_producto.Resources.resources
+D:\programacion\visual.net\precio_producto\obj\Debug\precio_producto.vbproj.GenerateResource.cache
+D:\programacion\visual.net\precio_producto\obj\Debug\precio_producto.vbproj.CoreCompileInputs.cache
+D:\programacion\visual.net\precio_producto\obj\Debug\precio_producto.exe
+D:\programacion\visual.net\precio_producto\obj\Debug\precio_producto.xml
+D:\programacion\visual.net\precio_producto\obj\Debug\precio_producto.pdb
